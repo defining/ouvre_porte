@@ -1,0 +1,42 @@
+Component Name : MICROREADER
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 30
+          SYNC           1              Output
+          RDEN           2              Passive
+          RESERVED       3              Passive
+          RESET          4              Passive
+          RXD            5              Input
+          TXD            6              Output
+          RESERVED       7              Passive
+          RESERVED       8              Passive
+          RESERVED       9              Passive
+          RESERVED       10             Passive
+          RESERVED       11             Passive
+          RESERVED       12             Passive
+          RESERVED       13             Passive
+          RESERVED       14             Passive
+          GND            15             Passive
+          ANT1           16             Passive
+          ANTCAP         17             Passive
+          RESERVED       18             Passive
+          ANT2           19             Passive
+          RESERVED       20             Passive
+          GNDP           21             Passive
+          VSP            22             Passive
+          RESERVED       23             Passive
+          VSL            24             Passive
+          GND            25             Passive
+          CRD            26             Input
+          WLS            27             Input
+          RESERVED       28             Passive
+          OKT            29             Output
+          STAT           30             Output
+          Hidden Pins : 
+

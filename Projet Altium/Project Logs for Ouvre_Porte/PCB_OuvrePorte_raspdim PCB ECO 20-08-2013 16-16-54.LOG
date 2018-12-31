@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Cap_ampli Old Footprint=1206 New Footprint=Capacitor D300
+Change Component Footprint: Designator=cap_decouplage_elec Old Footprint=1206 New Footprint=Capacitor D300
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Ampli LM386M-1
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Buffer 74ACT244MSA
+Added Room: Name=Schematic Ouvre_Porte

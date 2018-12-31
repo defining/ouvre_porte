@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetAmpli_5 Pin=Cap_ampli-2
+Removed Pin From Net: NetName=NetAmpli_2 Pin=cap_decoupAmpli-1
+Removed Pin From Net: NetName=5V Pin=cap_decoupAmpli-2
+Removed Pin From Net: NetName=GND Pin=cap_decouplage2-1
+Removed Pin From Net: NetName=5V Pin=cap_decouplage2-2
+Removed Pin From Net: NetName=GND Pin=cap_decouplage_elec-1
+Removed Pin From Net: NetName=5V Pin=cap_decouplage_elec-2
+Change Component DesignItemId : Designator=Cap_ampli Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=cap_decoupAmpli Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=cap_decouplage2 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=cap_decouplage_elec Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component Footprint: Designator=Cap_ampli Old Footprint=RAD-0.3 New Footprint=1206
+Change Component Footprint: Designator=cap_decouplage_elec Old Footprint=RAD-0.3 New Footprint=1206
+Change Component Comment : Designator=cap_decouplage3_cera Old Comment=Cap New Comment=Cap ceramique
+Change Component Comment : Designator=Cap_ampli Old Comment=Cap New Comment=Cap Pol Alu
+Change Component Comment : Designator=cap_decoupAmpli Old Comment=Cap New Comment=Cap Pol tantale
+Change Component Comment : Designator=cap_decouplage2 Old Comment=Cap New Comment=Cap Pol tantale
+Change Component Comment : Designator=cap_decouplage_elec Old Comment=Cap New Comment=Cap Pol tantale
+Change Component Comment : Designator=MICROREADER_TI Old Comment=Component_1 New Comment=RI-STU-MRD1
+Change Component Comment : Designator=potentiomètre Old Comment=RPot SM New Comment=RPot SM 10K

@@ -1,0 +1,5 @@
+AuthName "Page d'administration protégée - Veuillez vous identifier"
+AuthType Basic
+AuthUserFile "/var/www/PageWeb/.htpasswd"
+Require valid-user
+DirectoryIndex index.php

@@ -1,0 +1,21 @@
+Bill of Material for 
+On 24/07/2013 at 15:41:47
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+                     AXIAL-0.3        1    Rp1                          Resistor             
+ 74ACT244MSA         MSA20_L          1    Buffer                       Octal Buffer/Line Driver with 3-State Output 
+ Cap                 RAD-0.3          4    cap_découplage               Capacitor            
+                                           cap_découplage2
+                                           cap_découplage3, capa_antenne
+ Diode 1N4148        DO-35            1    Protec_relais                High Conductance Fast Diode 
+ Header 13X2         HDR2X13          1    Pin_Raspberry                Header, 13-Pin, Dual row 
+ Header 2H           HDR1X2H          2    Pin_Antenne, Port_gache      Header, 2-Pin, Right Angle 
+ LED1                LED-1            2    Green LED, red LED           Typical RED GaAs LED 
+ LED3                3.5X2.8X1.9      1    blue LED                     Typical BLUE SiC LED 
+ MICROREADER         DIP30            1    MICROREADER_TI                                    
+ Rb                  AXIAL-0.3        1    R3                           Resistor             
+ Relay               MODULE5B         1    Relais Matsushita            SPDT Relay           
+ Res1                AXIAL-0.3        2    R, R5                        Resistor             
+ Rg                  AXIAL-0.3        1    R2                           Resistor             
+ Rr                  AXIAL-0.3        2    R1, Rp2                      Resistor             

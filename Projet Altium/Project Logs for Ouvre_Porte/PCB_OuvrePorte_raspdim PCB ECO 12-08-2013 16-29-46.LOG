@@ -1,0 +1,30 @@
+Change Component Description : Designator=cap_decoupAmpli Old Description=Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=cap_decouplage2 Old Description=Capacitor New Description=Polarized Capacitor (Radial)
+Added Component: Designator=capa_DNP(1206)
+Added Component: Designator=R1_DNP(8-1206)
+Added Component: Designator=R2_DNP(8-1206)
+Added Pin To Net: NetName=NetAmpli_5 Pin=Cap_ampli-1
+Added Pin To Net: NetName=5V Pin=cap_decoupAmpli-1
+Added Pin To Net: NetName=NetAmpli_2 Pin=cap_decoupAmpli-2
+Added Pin To Net: NetName=5V Pin=cap_decouplage2-1
+Added Pin To Net: NetName=GND Pin=cap_decouplage2-2
+Added Pin To Net: NetName=5V Pin=cap_decouplage_elec-1
+Added Pin To Net: NetName=GND Pin=cap_decouplage_elec-2
+Added Pin To Net: NetName=GND Pin=capa_DNP-2
+Added Pin To Net: NetName=GND Pin=R2_DNP-1
+Added Pin To Net: NetName=Netcap_ampli_2 Pin=Cap_ampli-2
+Added Pin To Net: NetName=Netcap_ampli_2 Pin=Pin_Sorties-1
+Added Net: Name=Netcap_ampli_2
+Added Pin To Net: NetName=Netcapa_DNP_1 Pin=capa_DNP-1
+Added Pin To Net: NetName=Netcapa_DNP_1 Pin=Pin_Raspberry-15
+Added Pin To Net: NetName=Netcapa_DNP_1 Pin=Pin_reed-2
+Added Pin To Net: NetName=Netcapa_DNP_1 Pin=R1_DNP-1
+Added Pin To Net: NetName=Netcapa_DNP_1 Pin=R2_DNP-2
+Added Net: Name=Netcapa_DNP_1
+Added Pin To Net: NetName=NetPin_Raspberry_3 Pin=Pin_Raspberry-3
+Added Pin To Net: NetName=NetPin_Raspberry_3 Pin=R1_DNP-2
+Added Net: Name=NetPin_Raspberry_3
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component capa_DNP DNP
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component R1_DNP DNP
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component R2_DNP DNP
+Added Room: Name=Schematic Ouvre_Porte

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=MICROREADER_TI-2
+Removed Pin From Net: NetName=NetMICROREADER_TI_26 Pin=R-1
+Removed Pin From Net: NetName=5V Pin=R-2
+Removed Member From Class: ClassName=Schematic Ouvre_Porte Member=blue_LED
+Removed Member From Class: ClassName=Schematic Ouvre_Porte Member=green_led
+Removed Member From Class: ClassName=Schematic Ouvre_Porte Member=red_led
+Removed Member From Class: ClassName=Schematic Ouvre_Porte Member=R
+Added Component: Designator=R6(8-1206)
+Added Component: Designator=R7(8-1206)
+Added Pin To Net: NetName=5V Pin=R6-1
+Added Pin To Net: NetName=NetMICROREADER_TI_26 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetMICROREADER_TI_2 Pin=MICROREADER_TI-2
+Added Pin To Net: NetName=NetMICROREADER_TI_2 Pin=R7-1
+Added Net: Name=NetMICROREADER_TI_2
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component R6 Rr
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component R7 Rr

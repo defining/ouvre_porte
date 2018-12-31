@@ -1,0 +1,48 @@
+Added Component: Designator=Ampli(M08A_N)
+Added Component: Designator=cap_ampli3(1206)
+Added Component: Designator=Cap_ampli(RAD-0.3)
+Added Component: Designator=cap_decoupAmpli(1206)
+Added Component: Designator=Pin_entrées(HDR1X2)
+Added Component: Designator=Pin_reed(HDR1X2)
+Added Component: Designator=Pin_Sorties(HDR1X2)
+Added Component: Designator=potentiomètre(POT4MM-2)
+Added Component: Designator=R_Ampli(8-1206)
+Added Pin To Net: NetName=5V Pin=Ampli-6
+Added Pin To Net: NetName=5V Pin=cap_decoupAmpli-2
+Added Pin To Net: NetName=GND Pin=Pin_reed-1
+Added Pin To Net: NetName=NetAmpli_2 Pin=Ampli-2
+Added Pin To Net: NetName=NetAmpli_2 Pin=Ampli-4
+Added Pin To Net: NetName=NetAmpli_2 Pin=cap_decoupAmpli-1
+Added Pin To Net: NetName=NetAmpli_2 Pin=Pin_entrées-1
+Added Pin To Net: NetName=NetAmpli_2 Pin=Pin_Sorties-2
+Added Pin To Net: NetName=NetAmpli_2 Pin=potentiomètre-CCW
+Added Pin To Net: NetName=NetAmpli_2 Pin=R_Ampli-1
+Added Net: Name=NetAmpli_2
+Added Pin To Net: NetName=NetAmpli_3 Pin=Ampli-3
+Added Pin To Net: NetName=NetAmpli_3 Pin=potentiomètre-W
+Added Net: Name=NetAmpli_3
+Added Pin To Net: NetName=NetAmpli_5 Pin=Ampli-5
+Added Pin To Net: NetName=NetAmpli_5 Pin=cap_ampli3-2
+Added Pin To Net: NetName=NetAmpli_5 Pin=Cap_ampli-2
+Added Net: Name=NetAmpli_5
+Added Pin To Net: NetName=Netcap_ampli3_1 Pin=cap_ampli3-1
+Added Pin To Net: NetName=Netcap_ampli3_1 Pin=R_Ampli-2
+Added Net: Name=Netcap_ampli3_1
+Added Pin To Net: NetName=NetCap_ampli_1 Pin=Cap_ampli-1
+Added Pin To Net: NetName=NetCap_ampli_1 Pin=Pin_Sorties-1
+Added Net: Name=NetCap_ampli_1
+Added Pin To Net: NetName=NetPin_entrées_2 Pin=Pin_entrées-2
+Added Pin To Net: NetName=NetPin_entrées_2 Pin=potentiomètre-CW
+Added Net: Name=NetPin_entrées_2
+Added Pin To Net: NetName=NetPin_Raspberry_15 Pin=Pin_Raspberry-15
+Added Pin To Net: NetName=NetPin_Raspberry_15 Pin=Pin_reed-2
+Added Net: Name=NetPin_Raspberry_15
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Ampli LM386M-1
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component cap_ampli3 Cap
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Cap_ampli Cap
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component cap_decoupAmpli Cap
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Pin_entrées Header 2
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Pin_reed Header 2
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Pin_Sorties Header 2
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component potentiomètre RPot SM
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component R_Ampli Rr

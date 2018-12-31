@@ -1,0 +1,63 @@
+.badges
+{
+	font-size:20px;
+	color:blue;
+	font-family: Arial,serif,sans-serif;
+	font-style:italic;
+}
+.titre
+{	margin-bottom: 50px;
+	font-size:25px;
+	color:red;
+	font-family: Arial,serif,sans-serif;
+	margin: auto;
+	text-align:justify;
+}
+
+.titre2
+{	display:block;
+	font-style:italic;
+	font-size:35px;	
+	width: 1200px;
+	margin-top: 60px;
+	float:right;
+}
+.titre3
+{
+	margin-top:200px;
+	clear:both;
+}
+.logobeams
+{	display:block;
+	float: left;
+	width: 400px;
+}
+table
+{	
+	
+	margin-top:30px;
+	border-collapse: collapse;
+}
+td
+{	padding:10px;
+	border: 1px solid black;
+}
+tabs
+{	margin-left:1em;
+}
+label
+{
+	display:block;
+	width:250px;
+	float:left;
+}
+.logoulb
+{
+	margin-top:100px;
+}
+div
+{
+display: flex;
+flex-flow: row wrap;
+align-content:space-around;
+} 

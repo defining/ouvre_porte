@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetBuffer_6 Pin=Rpulldown2-2
+Removed Pin From Net: NetName=NetBuffer_4 Pin=Rpulldown3-2
+Removed Pin From Net: NetName=NetBuffer_2 Pin=Rpulldown4-2
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=R Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=Rp1 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=Rp2 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=Rpulldown2 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=Rpulldown3 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=Rpulldown4 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=Rpulldown5 Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=Rpulldown Old Footprint=AXIAL-0.3 New Footprint=8-1206
+Change Component Footprint: Designator=cap_decouplage3_cera Old Footprint=CAPC500P450250X550 New Footprint=1206
+Change Component Comment : Designator=R5 Old Comment=Res1 New Comment=Rr
+Change Component Comment : Designator=R Old Comment=Res1 New Comment=Rr
+Added Pin To Net: NetName=NetBuffer_2 Pin=Rpulldown2-2
+Added Pin To Net: NetName=NetBuffer_6 Pin=Rpulldown3-2
+Added Pin To Net: NetName=NetBuffer_4 Pin=Rpulldown4-2

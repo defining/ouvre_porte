@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ouvre_Porte.PrjPcb]
+   Generated File[PCB_OuvrePorte_raspdim.TXT]
+   Generated File[PCB_OuvrePorte_raspdim.DRL]
+   Generated File[PCB_OuvrePorte_raspdim.LDP]
+   Generated File[PCB_OuvrePorte_raspdim.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:33:52 On 21/08/2013

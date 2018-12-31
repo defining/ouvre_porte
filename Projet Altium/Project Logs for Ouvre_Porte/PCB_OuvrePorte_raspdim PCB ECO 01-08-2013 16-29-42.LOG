@@ -1,0 +1,20 @@
+Added Component: Designator=Rpulldown2(AXIAL-0.3)
+Added Component: Designator=Rpulldown3(AXIAL-0.3)
+Added Component: Designator=Rpulldown4(AXIAL-0.3)
+Added Component: Designator=Rpulldown5(AXIAL-0.3)
+Added Component: Designator=Rpulldown(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=Rpulldown2-1
+Added Pin To Net: NetName=NetBuffer_6 Pin=Rpulldown2-2
+Added Pin To Net: NetName=GND Pin=Rpulldown3-1
+Added Pin To Net: NetName=NetBuffer_4 Pin=Rpulldown3-2
+Added Pin To Net: NetName=GND Pin=Rpulldown4-1
+Added Pin To Net: NetName=NetBuffer_2 Pin=Rpulldown4-2
+Added Pin To Net: NetName=GND Pin=Rpulldown5-1
+Added Pin To Net: NetName=TXD Pin=Rpulldown5-2
+Added Pin To Net: NetName=GND Pin=Rpulldown-1
+Added Pin To Net: NetName=NetBuffer_11 Pin=Rpulldown-2
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Rpulldown2 
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Rpulldown3 
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Rpulldown4 
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Rpulldown5 
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component Rpulldown 

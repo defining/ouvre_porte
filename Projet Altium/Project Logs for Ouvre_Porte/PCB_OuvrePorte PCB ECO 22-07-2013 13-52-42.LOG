@@ -1,0 +1,127 @@
+Added Component: Designator=blue LED(3.5X2.8X1.9)
+Added Component: Designator=Buffer(MSA20_L)
+Added Component: Designator=cap_découplage2(RAD-0.3)
+Added Component: Designator=cap_découplage3(RAD-0.3)
+Added Component: Designator=cap_découplage(RAD-0.3)
+Added Component: Designator=capa_antenne(RAD-0.3)
+Added Component: Designator=Green LED(LED-1)
+Added Component: Designator=MICROREADER_TI(DIP30)
+Added Component: Designator=Pin_Antenne(HDR1X2H)
+Added Component: Designator=Pin_Raspberry(HDR2X13)
+Added Component: Designator=Port_gache(HDR1X2H)
+Added Component: Designator=Protec_relais(DO-35)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=red LED(LED-1)
+Added Component: Designator=Relais Matsushita(MODULE5B)
+Added Component: Designator=Rp1(AXIAL-0.3)
+Added Component: Designator=Rp2(AXIAL-0.3)
+Added Component: Designator=R(AXIAL-0.3)
+Added Pin To Net: NetName=5V Pin=Buffer-20
+Added Pin To Net: NetName=5V Pin=cap_découplage2-2
+Added Pin To Net: NetName=5V Pin=cap_découplage3-1
+Added Pin To Net: NetName=5V Pin=cap_découplage-2
+Added Pin To Net: NetName=5V Pin=MICROREADER_TI-22
+Added Pin To Net: NetName=5V Pin=MICROREADER_TI-24
+Added Pin To Net: NetName=5V Pin=Pin_Raspberry-2
+Added Pin To Net: NetName=5V Pin=Protec_relais-2
+Added Pin To Net: NetName=5V Pin=R-2
+Added Pin To Net: NetName=5V Pin=Relais Matsushita-4
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=blue LED-2
+Added Pin To Net: NetName=GND Pin=Buffer-1
+Added Pin To Net: NetName=GND Pin=Buffer-10
+Added Pin To Net: NetName=GND Pin=Buffer-19
+Added Pin To Net: NetName=GND Pin=cap_découplage2-1
+Added Pin To Net: NetName=GND Pin=cap_découplage3-2
+Added Pin To Net: NetName=GND Pin=cap_découplage-1
+Added Pin To Net: NetName=GND Pin=Green LED-2
+Added Pin To Net: NetName=GND Pin=MICROREADER_TI-2
+Added Pin To Net: NetName=GND Pin=MICROREADER_TI-15
+Added Pin To Net: NetName=GND Pin=MICROREADER_TI-21
+Added Pin To Net: NetName=GND Pin=MICROREADER_TI-25
+Added Pin To Net: NetName=GND Pin=Pin_Raspberry-6
+Added Pin To Net: NetName=GND Pin=Pin_Raspberry-9
+Added Pin To Net: NetName=GND Pin=Pin_Raspberry-14
+Added Pin To Net: NetName=GND Pin=Pin_Raspberry-20
+Added Pin To Net: NetName=GND Pin=Pin_Raspberry-25
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=red LED-2
+Added Pin To Net: NetName=GND Pin=Rp1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Netblue LED_1 Pin=blue LED-1
+Added Pin To Net: NetName=Netblue LED_1 Pin=R3-2
+Added Net: Name=Netblue LED_1
+Added Pin To Net: NetName=NetBuffer_2 Pin=Buffer-2
+Added Pin To Net: NetName=NetBuffer_2 Pin=Pin_Raspberry-16
+Added Net: Name=NetBuffer_2
+Added Pin To Net: NetName=NetBuffer_3 Pin=Buffer-3
+Added Pin To Net: NetName=NetBuffer_3 Pin=Buffer-5
+Added Pin To Net: NetName=NetBuffer_3 Pin=Buffer-7
+Added Pin To Net: NetName=NetBuffer_3 Pin=Buffer-9
+Added Pin To Net: NetName=NetBuffer_3 Pin=Protec_relais-1
+Added Pin To Net: NetName=NetBuffer_3 Pin=Relais Matsushita-5
+Added Net: Name=NetBuffer_3
+Added Pin To Net: NetName=NetBuffer_4 Pin=Buffer-4
+Added Pin To Net: NetName=NetBuffer_4 Pin=Pin_Raspberry-18
+Added Net: Name=NetBuffer_4
+Added Pin To Net: NetName=NetBuffer_6 Pin=Buffer-6
+Added Pin To Net: NetName=NetBuffer_6 Pin=Pin_Raspberry-22
+Added Net: Name=NetBuffer_6
+Added Pin To Net: NetName=NetBuffer_11 Pin=Buffer-11
+Added Pin To Net: NetName=NetBuffer_11 Pin=Buffer-13
+Added Pin To Net: NetName=NetBuffer_11 Pin=Buffer-15
+Added Pin To Net: NetName=NetBuffer_11 Pin=Buffer-17
+Added Pin To Net: NetName=NetBuffer_11 Pin=Pin_Raspberry-11
+Added Net: Name=NetBuffer_11
+Added Pin To Net: NetName=NetBuffer_12 Pin=Buffer-12
+Added Pin To Net: NetName=NetBuffer_12 Pin=MICROREADER_TI-5
+Added Net: Name=NetBuffer_12
+Added Pin To Net: NetName=NetBuffer_14 Pin=Buffer-14
+Added Pin To Net: NetName=NetBuffer_14 Pin=R1-1
+Added Net: Name=NetBuffer_14
+Added Pin To Net: NetName=NetBuffer_16 Pin=Buffer-16
+Added Pin To Net: NetName=NetBuffer_16 Pin=R2-1
+Added Net: Name=NetBuffer_16
+Added Pin To Net: NetName=NetBuffer_18 Pin=Buffer-18
+Added Pin To Net: NetName=NetBuffer_18 Pin=R3-1
+Added Net: Name=NetBuffer_18
+Added Pin To Net: NetName=Netcapa_antenne_1 Pin=capa_antenne-1
+Added Pin To Net: NetName=Netcapa_antenne_1 Pin=MICROREADER_TI-17
+Added Net: Name=Netcapa_antenne_1
+Added Pin To Net: NetName=Netcapa_antenne_2 Pin=capa_antenne-2
+Added Pin To Net: NetName=Netcapa_antenne_2 Pin=MICROREADER_TI-16
+Added Pin To Net: NetName=Netcapa_antenne_2 Pin=Pin_Antenne-1
+Added Net: Name=Netcapa_antenne_2
+Added Pin To Net: NetName=NetMICROREADER_TI_6 Pin=MICROREADER_TI-6
+Added Pin To Net: NetName=NetMICROREADER_TI_6 Pin=Rp2-2
+Added Net: Name=NetMICROREADER_TI_6
+Added Pin To Net: NetName=NetMICROREADER_TI_19 Pin=MICROREADER_TI-19
+Added Pin To Net: NetName=NetMICROREADER_TI_19 Pin=Pin_Antenne-2
+Added Net: Name=NetMICROREADER_TI_19
+Added Pin To Net: NetName=NetMICROREADER_TI_26 Pin=MICROREADER_TI-26
+Added Pin To Net: NetName=NetMICROREADER_TI_26 Pin=R-1
+Added Net: Name=NetMICROREADER_TI_26
+Added Pin To Net: NetName=NetMICROREADER_TI_27 Pin=MICROREADER_TI-27
+Added Pin To Net: NetName=NetMICROREADER_TI_27 Pin=R5-2
+Added Net: Name=NetMICROREADER_TI_27
+Added Pin To Net: NetName=NetPort_gache_1 Pin=Port_gache-1
+Added Pin To Net: NetName=NetPort_gache_1 Pin=Relais Matsushita-1
+Added Net: Name=NetPort_gache_1
+Added Pin To Net: NetName=NetPort_gache_2 Pin=Port_gache-2
+Added Pin To Net: NetName=NetPort_gache_2 Pin=Relais Matsushita-3
+Added Net: Name=NetPort_gache_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=red LED-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=RXD Pin=Pin_Raspberry-10
+Added Pin To Net: NetName=RXD Pin=Rp1-2
+Added Pin To Net: NetName=RXD Pin=Rp2-1
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=Buffer-8
+Added Pin To Net: NetName=TXD Pin=Pin_Raspberry-8
+Added Net: Name=TXD
+Added Class: Name=Schematic Ouvre_Porte
+Added Room: Name=Schematic Ouvre_Porte

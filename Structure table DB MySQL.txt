@@ -1,0 +1,14 @@
+     	Structure de la table Entrees-Sorties dans la database MySQL de l'ouvre-porte:
+
+
+	Field name    		Type    								Allow nulls?    	Key    	Default value    	Extras   
+	Index 			int(10) unsigned 							No 			Primary NULL 			auto_increment
+	Nom 			tinytext 								No 			None 	NULL 	
+	Prenom 			tinytext 								No 			None 	NULL 	
+	Fonction 		enum('ETUDIANT','MEMBRE','EXTERNE','STAGE','INVITE','SPARE1','SPARE2') 	No 			None 	MEMBRE 	
+	ID 			char(20) 								Yes 			None 	NULL 	
+	Statut 			enum('Actif','Inactif') 						No 			None 	Actif 	
+	Portes 			set('VAL','VAS','UB3','L2','SPARE1','SPARE2','UA5','UA3','UA2') 	No 			None 	UA2 	
+	Date_de_creation 	datetime 								No 			None 	NULL 	
+	Date_Fin_Validite 	date 									No 			None 	NULL 	
+	Commentaires 		tinytext 								No 			None 	NULL

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Relais PANASONIC OMRON Old Footprint=MODULE5B New Footprint=PCBComponent_1 - duplicate2
+Change Component Designator: OldDesignator=cap_decouplage3 NewDesignator=cap_decouplage3_cera
+Change Component Designator: OldDesignator=cap_decouplage NewDesignator=cap_decouplage_elec

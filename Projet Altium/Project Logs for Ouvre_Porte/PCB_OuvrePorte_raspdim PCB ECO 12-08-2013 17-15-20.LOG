@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=Ampli-2
+Added Pin To Net: NetName=GND Pin=Ampli-4
+Added Pin To Net: NetName=GND Pin=cap_decoupAmpli-2
+Added Pin To Net: NetName=GND Pin=Pin_entrées-1
+Added Pin To Net: NetName=GND Pin=Pin_Sorties-2
+Added Pin To Net: NetName=GND Pin=potentiomètre-CCW
+Added Pin To Net: NetName=GND Pin=R_Ampli-1

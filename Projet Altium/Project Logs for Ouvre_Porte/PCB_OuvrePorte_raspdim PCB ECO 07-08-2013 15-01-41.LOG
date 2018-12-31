@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Netcapa_antenne_2 Pin=Pin_Antenne-1
+Removed Pin From Net: NetName=NetMICROREADER_TI_19 Pin=Pin_Antenne-2
+Change Component DesignItemId : Designator=MICROREADER_TI Old DesignItemId=MICROREADER New DesignItemId=Component_1
+Change Component Comment : Designator=MICROREADER_TI Old Comment=MICROREADER New Comment=Component_1
+Added Pin To Net: NetName=NetMICROREADER_TI_19 Pin=Pin_Antenne-1
+Added Pin To Net: NetName=Netcapa_antenne_2 Pin=Pin_Antenne-2

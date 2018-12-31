@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Netblue LED_1 Pin=blue LED-1
+Removed Pin From Net: NetName=GND Pin=blue LED-2
+Removed Pin From Net: NetName=Netgreen led_1 Pin=green led-1
+Removed Pin From Net: NetName=GND Pin=green led-2
+Removed Pin From Net: NetName=NetR1_2 Pin=red led-1
+Removed Pin From Net: NetName=GND Pin=red led-2
+Change Component Designator: OldDesignator=blue LED NewDesignator=blue_LED
+Change Component Designator: OldDesignator=green led NewDesignator=green_led
+Change Component Designator: OldDesignator=red led NewDesignator=red_led
+Added Component: Designator=blue LED(HDR1X2)
+Added Component: Designator=green LED(HDR1X2)
+Added Component: Designator=red LED(HDR1X2)
+Added Pin To Net: NetName=Netblue LED_1 Pin=blue LED-1
+Added Pin To Net: NetName=GND Pin=blue LED-2
+Added Pin To Net: NetName=Netgreen led_1 Pin=green LED-1
+Added Pin To Net: NetName=GND Pin=green LED-2
+Added Pin To Net: NetName=NetR1_2 Pin=red LED-1
+Added Pin To Net: NetName=GND Pin=red LED-2
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component blue LED Header 2
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component green LED Header 2
+Added Member To Class: ClassName=Schematic Ouvre_Porte Member=Component red LED Header 2
